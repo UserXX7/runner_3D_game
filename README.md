@@ -4,21 +4,15 @@ A simple 3D runner game built with Unity for my **MAC280 Game Programming** cour
 
 ---
 
-## Overview
+## 📌 Overview
 
 **Runner 3D Game** is a Unity project where the player controls a character in a 3D environment and avoids obstacles while moving forward.
 
-The project focuses on basic game programming concepts such as:
-
-* Player movement
-* Obstacle interaction
-* Scene setup
-* Basic gameplay flow
-* Unity project structure
+The project focuses on basic game programming concepts such as player movement, obstacle interaction, scene setup, and gameplay flow.
 
 ---
 
-## Features
+## ✨ Features
 
 | Feature         | Description                                              |
 | --------------- | -------------------------------------------------------- |
@@ -30,33 +24,42 @@ The project focuses on basic game programming concepts such as:
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-| Technology   | Usage                               |
-| ------------ | ----------------------------------- |
-| Unity        | Game engine                         |
-| C#           | Game scripting                      |
-| Unity Editor | Game development environment        |
-| GitHub       | Version control and project hosting |
+| Technology   | Usage                        |
+| ------------ | ---------------------------- |
+| Unity        | Game engine                  |
+| C#           | Game scripting               |
+| Unity Editor | Game development environment |
+| Git          | Version control              |
+| GitHub       | Project hosting              |
 
 ---
 
-## Project Purpose
+## 🎮 Gameplay
 
-The purpose of this project is to practice Unity game development and demonstrate basic game programming skills.
+The player controls a character in a 3D runner-style environment. The goal is to continue moving forward while avoiding obstacles placed throughout the scene.
+
+The gameplay is designed to practice basic Unity mechanics, player movement, object interaction, and scene organization.
+
+---
+
+## 🎯 Project Purpose
+
+The purpose of this project is to practice Unity game development and demonstrate beginner-level game programming skills.
 
 This project shows understanding of:
 
 * Unity scene setup
 * GameObject management
 * Player movement scripting
-* Basic obstacle-based gameplay
+* Obstacle-based gameplay
 * C# scripting in Unity
 * Version control with Git and GitHub
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
 ```text
 Runner3DGame/
@@ -70,7 +73,18 @@ Runner3DGame/
 
 ---
 
-## Future Improvements
+## 🧩 Main Scripts / Systems
+
+| System            | Purpose                             |
+| ----------------- | ----------------------------------- |
+| Player Controller | Handles player movement             |
+| Obstacle System   | Adds challenge through obstacles    |
+| Scene Setup       | Organizes the main Unity game scene |
+| Game Logic        | Controls basic gameplay behavior    |
+
+---
+
+## 🚀 Future Improvements
 
 Possible future upgrades include:
 
@@ -84,13 +98,13 @@ Possible future upgrades include:
 
 ---
 
-## Project Status
+## ✅ Project Status
 
 Completed / submitted for **MAC280 Game Programming**.
 
 ---
 
-## Author
+## 👤 Author
 
 **Alif Rony**
 Programming & Software Development Student
