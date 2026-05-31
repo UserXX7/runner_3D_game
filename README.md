@@ -106,6 +106,6 @@ Completed / submitted for **MAC280 Game Programming**.
 
 ## 👤 Author
 
-**Alif Rony**
-Programming & Software Development Student
+**Alif Rony**  
+Programming & Software Development Student  
 LaGuardia Community College
